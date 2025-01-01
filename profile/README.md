@@ -1,3 +1,5 @@
+<img src="img/logo.png"/>
+
 # BendByte Inc.
 
 ```json
