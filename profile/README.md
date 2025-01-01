@@ -2,6 +2,36 @@
 
 # BendByte Inc.
 
+## Links Úteis
+
+<table>
+  <tr>
+    <td>
+      <img src="img/clickup.png" alt="ClickUp" style="height: 30px;">
+    </td>
+    <td>
+      <a href="https://clickup.com" target="_blank">ClickUp</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="img/discord.png" alt="Discord" style="height: 30px;">
+    </td>
+    <td>
+      <a href="https://discord.com" target="_blank">Discord</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="img/drive.png" alt="Google Drive" style="height: 30px;">
+    </td>
+    <td><a href="https://drive.google.com" target="_blank">Google Drive</a>
+    </td>
+  </tr>
+</table>
+
+## Description
+
 ```json
 {
   "name": "BendByte",
@@ -15,7 +45,3 @@
 }
 ```
 
-## Links Úteis
-
-ClickUp - 
-Discord - 
